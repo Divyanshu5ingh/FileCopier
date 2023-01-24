@@ -16,3 +16,6 @@ this program uses FileInputStream and FileOutputStream classes to read and write
 
 finally at last the program closes by printing messsage "yay!!! Your file is sucessfully copied to....." indicating that the file has been copied sucessfully
 
+![image](https://user-images.githubusercontent.com/90168140/214286941-3da88f8b-a2b2-48af-bef0-e8b526594bf5.png)
+
+
